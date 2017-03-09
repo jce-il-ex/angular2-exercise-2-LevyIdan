@@ -1,0 +1,10 @@
+.nav{
+     
+    color:black;
+    font-weight:bold;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav:hover{
+    background-color:white 
+}
